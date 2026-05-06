@@ -24,7 +24,7 @@ Here are some examples of my work:
   👉 https://github.com/Instinct230/client-portfolio-website-php  
   A clean and responsive website for freelancers and personal brands.
 
-- (Add your next project here later)
+- (will add my next project here later)
 
 ### 🌐 Portfolio
 👉 https://theniche.site
