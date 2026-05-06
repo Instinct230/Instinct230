@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Zaw Min Oo 👋
 
-<!--
-**Instinct230/Instinct230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Freelance PHP Developer
+I help small businesses build simple, fast, and effective websites and systems.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- Business websites (landing pages, company sites)
+- Simple web systems (booking, order, admin panels)
+- Clean and practical solutions (no over-complicated code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
+
+### 📌 Projects
+Here are some of my focused projects:
+- Business Website Template
+- Simple Booking System
+- Admin Dashboard
+
+### 🌐 Portfolio
+👉 https://theniche.site
+
+### 📬 Contact
+- Email: zawminoo9086@gmail.com
