@@ -18,7 +18,7 @@ Here are some of my focused projects:
 - Business Website Template
 - Simple Booking System
 - Admin Dashboard
-- Personal Brand Website → (repo link)
+- Personal Brand Website → ([repo link](https://github.com/Instinct230/client-portfolio-website-php))
 ### 🌐 Portfolio
 👉 https://theniche.site
 
